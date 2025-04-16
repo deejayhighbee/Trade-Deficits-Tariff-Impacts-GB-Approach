@@ -1,5 +1,7 @@
 # Analyzing and Modeling US Trade Deficits and Tariff Impacts: A Gradient Boosting Approach
 
+[View on Kaggle](https://www.kaggle.com/code/ayodejiibrahimlateef/trade-deficits-tariff-impacts-gb-approach)
+
 This project provides a comprehensive analysis of international trade data focusing on the United States' 2024 trade deficits, import-export dynamics, and the impact of tariffs implemented under the Trump administration. The analysis employs advanced data science techniques, specifically Gradient Boosting, to model and interpret these economic relationships.
 
 ---
